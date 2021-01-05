@@ -1,0 +1,389 @@
+ INFO [restartedMain] 2020-11-26 10:48:41 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 10:48:41 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:48:42 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 10:48:42 Root WebApplicationContext: initialization completed in 1829 ms
+ INFO [localhost-startStop-1] 2020-11-26 10:48:43 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 10:48:43 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:48:43 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:48:43 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:48:43 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 10:48:43 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 10:48:41 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:48:43 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 10:48:43 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 10:48:43 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:48:43 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:48:43 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:48:44 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 10:48:44 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 10:48:44 Tomcat started on port(s): 8080 (http)
+ INFO [restartedMain] 2020-11-26 10:50:07 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@430e7924: startup date [Thu Nov 26 10:50:07 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:50:08 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 10:50:08 Root WebApplicationContext: initialization completed in 1107 ms
+ INFO [localhost-startStop-1] 2020-11-26 10:50:08 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:08 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:08 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:08 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:08 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 10:50:08 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@430e7924: startup date [Thu Nov 26 10:50:07 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:50:08 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 10:50:08 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 10:50:08 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:50:08 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:50:08 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:50:09 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 10:50:09 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 10:50:09 Tomcat started on port(s): 8080 (http)
+ INFO [restartedMain] 2020-11-26 10:50:33 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 10:50:33 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:50:35 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 10:50:35 Root WebApplicationContext: initialization completed in 1193 ms
+ INFO [localhost-startStop-1] 2020-11-26 10:50:35 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:35 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:35 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:35 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:50:35 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 10:50:35 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 10:50:33 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:50:35 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 10:50:35 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 10:50:35 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:50:35 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:50:35 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:50:35 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 10:50:35 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 10:50:35 Tomcat started on port(s): 8080 (http)
+ INFO [restartedMain] 2020-11-26 10:55:35 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 10:55:35 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:55:36 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 10:55:36 Root WebApplicationContext: initialization completed in 1173 ms
+ INFO [localhost-startStop-1] 2020-11-26 10:55:36 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:36 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:36 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:36 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:36 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 10:55:36 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 10:55:35 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:55:36 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 10:55:36 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 10:55:36 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:55:36 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:55:36 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:55:36 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 10:55:36 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 10:55:36 Tomcat started on port(s): 8080 (http)
+ INFO [restartedMain] 2020-11-26 10:55:57 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 10:55:57 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:55:58 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 10:55:58 Root WebApplicationContext: initialization completed in 1137 ms
+ INFO [localhost-startStop-1] 2020-11-26 10:55:58 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:58 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:58 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:58 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 10:55:58 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 10:55:59 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 10:55:57 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 10:55:59 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 10:55:59 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 10:55:59 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:55:59 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:55:59 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 10:55:59 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 10:55:59 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 10:55:59 Tomcat started on port(s): 8080 (http)
+ INFO [restartedMain] 2020-11-26 11:51:35 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 11:51:35 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 11:51:37 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 11:51:37 Root WebApplicationContext: initialization completed in 2231 ms
+ INFO [localhost-startStop-1] 2020-11-26 11:51:37 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 11:51:37 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 11:51:37 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 11:51:37 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 11:51:37 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 11:51:37 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 11:51:35 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 11:51:37 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 11:51:37 Mapped "{[/cata/map/cluster/tree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 11:51:37 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 11:51:37 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 11:51:37 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 11:51:37 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 11:51:37 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 11:51:38 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 11:51:38 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 11:51:38 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-2] 2020-11-26 11:52:30 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-2] 2020-11-26 11:52:30 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+ INFO [restartedMain] 2020-11-26 12:51:50 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2700dd5c: startup date [Thu Nov 26 12:51:50 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 12:51:51 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 12:51:51 Root WebApplicationContext: initialization completed in 1067 ms
+ INFO [localhost-startStop-1] 2020-11-26 12:51:51 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 12:51:51 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 12:51:51 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 12:51:51 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 12:51:51 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 12:51:51 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2700dd5c: startup date [Thu Nov 26 12:51:50 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 12:51:51 Mapped "{[/cata/map/cluster/tree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 12:51:51 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 12:51:51 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 12:51:51 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 12:51:51 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 12:51:51 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 12:51:51 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 12:51:52 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 12:51:52 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 12:51:52 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-3] 2020-11-26 12:52:08 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-3] 2020-11-26 12:52:08 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+ INFO [restartedMain] 2020-11-26 12:59:46 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 12:59:46 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 12:59:47 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 12:59:47 Root WebApplicationContext: initialization completed in 1132 ms
+ INFO [localhost-startStop-1] 2020-11-26 12:59:48 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 12:59:48 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 12:59:48 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 12:59:48 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 12:59:48 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 12:59:48 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 12:59:46 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 12:59:48 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 12:59:48 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 12:59:48 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 12:59:48 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:09:07 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:09:07 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+ INFO [restartedMain] 2020-11-26 13:11:15 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 13:11:15 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:11:16 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 13:11:17 Root WebApplicationContext: initialization completed in 1067 ms
+ INFO [localhost-startStop-1] 2020-11-26 13:11:17 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 13:11:17 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:11:17 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:11:17 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:11:17 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 13:11:17 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 13:11:15 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:11:17 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:11:17 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 13:11:17 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 13:11:17 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:11:30 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:11:30 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+ INFO [restartedMain] 2020-11-26 13:20:18 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 13:20:18 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:20:19 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 13:20:19 Root WebApplicationContext: initialization completed in 1266 ms
+ INFO [localhost-startStop-1] 2020-11-26 13:20:19 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 13:20:19 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:20:19 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:20:19 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:20:19 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 13:20:19 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 13:20:18 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:20:19 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:20:20 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 13:20:20 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 13:20:20 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-2] 2020-11-26 13:20:32 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-2] 2020-11-26 13:20:32 FrameworkServlet 'dispatcherServlet': initialization completed in 14 ms
+ INFO [restartedMain] 2020-11-26 13:25:07 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 13:25:07 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:25:08 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 13:25:08 Root WebApplicationContext: initialization completed in 1793 ms
+ INFO [localhost-startStop-1] 2020-11-26 13:25:09 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 13:25:09 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:25:09 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:25:09 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:25:09 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 13:25:09 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 13:25:07 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:25:09 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:25:09 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 13:25:09 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 13:25:09 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:25:17 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:25:17 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+ INFO [restartedMain] 2020-11-26 13:27:19 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 13:27:19 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:27:20 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 13:27:20 Root WebApplicationContext: initialization completed in 1187 ms
+ INFO [localhost-startStop-1] 2020-11-26 13:27:20 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 13:27:20 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:27:20 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:27:20 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:27:20 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 13:27:21 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 13:27:19 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:27:21 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:27:21 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 13:27:21 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 13:27:21 Tomcat started on port(s): 8080 (http)
+ INFO [restartedMain] 2020-11-26 13:28:14 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@394437f6: startup date [Thu Nov 26 13:28:14 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:28:15 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 13:28:15 Root WebApplicationContext: initialization completed in 1131 ms
+ INFO [localhost-startStop-1] 2020-11-26 13:28:15 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 13:28:15 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:28:15 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:28:15 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:28:15 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 13:28:15 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@394437f6: startup date [Thu Nov 26 13:28:14 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:28:15 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:28:15 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 13:28:15 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 13:28:15 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:28:18 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:28:18 FrameworkServlet 'dispatcherServlet': initialization completed in 16 ms
+ INFO [restartedMain] 2020-11-26 13:36:07 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 13:36:07 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:36:08 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 13:36:08 Root WebApplicationContext: initialization completed in 1126 ms
+ INFO [localhost-startStop-1] 2020-11-26 13:36:08 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 13:36:08 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:36:08 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:36:08 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 13:36:08 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 13:36:08 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8016844: startup date [Thu Nov 26 13:36:07 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:36:09 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 13:36:09 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 13:36:09 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 13:36:09 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:36:14 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-1] 2020-11-26 13:36:14 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+ INFO [restartedMain] 2020-11-26 14:06:59 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3b9eb886: startup date [Thu Nov 26 14:06:59 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 14:07:00 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 14:07:00 Root WebApplicationContext: initialization completed in 1139 ms
+ INFO [localhost-startStop-1] 2020-11-26 14:07:00 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 14:07:00 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 14:07:00 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 14:07:00 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 14:07:00 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 14:07:00 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3b9eb886: startup date [Thu Nov 26 14:06:59 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 14:07:00 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 14:07:01 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 14:07:01 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 14:07:01 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-2] 2020-11-26 14:08:29 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-2] 2020-11-26 14:08:29 FrameworkServlet 'dispatcherServlet': initialization completed in 16 ms
+ INFO [restartedMain] 2020-11-26 15:52:39 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@60df39e4: startup date [Thu Nov 26 15:52:39 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 15:52:40 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 15:52:40 Root WebApplicationContext: initialization completed in 1420 ms
+ INFO [localhost-startStop-1] 2020-11-26 15:52:40 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 15:52:40 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 15:52:40 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 15:52:40 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 15:52:40 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 15:52:40 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@60df39e4: startup date [Thu Nov 26 15:52:39 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.elon.jsc.controlller.ClusterController.showClusterMap(com.elon.jsc.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 15:52:41 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 15:52:41 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 15:52:41 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 15:52:41 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-2] 2020-11-26 15:52:45 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-2] 2020-11-26 15:52:45 FrameworkServlet 'dispatcherServlet': initialization completed in 16 ms
+ INFO [restartedMain] 2020-11-26 16:15:51 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 16:15:51 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 16:15:52 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 16:15:52 Root WebApplicationContext: initialization completed in 1071 ms
+ INFO [localhost-startStop-1] 2020-11-26 16:15:52 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 16:15:52 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 16:15:52 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 16:15:52 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 16:15:52 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 16:15:53 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@568e3cf: startup date [Thu Nov 26 16:15:51 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped "{[/cata/map/border],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.showBorder()
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.showClusterMap(com.tencent.goff.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 16:15:53 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 16:15:53 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 16:15:53 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 16:15:53 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-1] 2020-11-26 16:15:59 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-1] 2020-11-26 16:15:59 FrameworkServlet 'dispatcherServlet': initialization completed in 17 ms
+ INFO [restartedMain] 2020-11-26 19:13:16 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2700dd5c: startup date [Thu Nov 26 19:13:16 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 19:13:17 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 19:13:17 Root WebApplicationContext: initialization completed in 1231 ms
+ INFO [localhost-startStop-1] 2020-11-26 19:13:17 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 19:13:17 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 19:13:17 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 19:13:17 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 19:13:17 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 19:13:17 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2700dd5c: startup date [Thu Nov 26 19:13:16 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped "{[/cata/map/data/border],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.showDataBorder()
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.showClusterMap(com.tencent.goff.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 19:13:17 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 19:13:18 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 19:13:18 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 19:13:18 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-1] 2020-11-26 19:13:41 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-1] 2020-11-26 19:13:41 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+ INFO [restartedMain] 2020-11-26 20:28:05 Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@26cce092: startup date [Thu Nov 26 20:28:05 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 20:28:06 Tomcat initialized with port(s): 8080 (http)
+ INFO [localhost-startStop-1] 2020-11-26 20:28:07 Root WebApplicationContext: initialization completed in 1159 ms
+ INFO [localhost-startStop-1] 2020-11-26 20:28:07 Mapping servlet: 'dispatcherServlet' to [/]
+ INFO [localhost-startStop-1] 2020-11-26 20:28:07 Mapping filter: 'characterEncodingFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 20:28:07 Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 20:28:07 Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ INFO [localhost-startStop-1] 2020-11-26 20:28:07 Mapping filter: 'requestContextFilter' to: [/*]
+ INFO [restartedMain] 2020-11-26 20:28:07 Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@26cce092: startup date [Thu Nov 26 20:28:05 CST 2020]; root of context hierarchy
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped "{[/cata/map/clusterTree/generate],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.generateTree()
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped "{[/cata/map/cluster/list],methods=[GET]}" onto public java.lang.String com.tencent.goff.controlller.ClusterController.showClusterMap(com.tencent.goff.pojo.Box,java.lang.Integer)
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped "{[/cata/map/data/box],methods=[GET]}" onto public com.tencent.goff.pojo.MapBox com.tencent.goff.controlller.ClusterController.showDataBorder()
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 20:28:07 Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ INFO [restartedMain] 2020-11-26 20:28:07 LiveReload server is running on port 35729
+ INFO [restartedMain] 2020-11-26 20:28:07 Registering beans for JMX exposure on startup
+ INFO [restartedMain] 2020-11-26 20:28:07 Tomcat started on port(s): 8080 (http)
+ INFO [http-nio-8080-exec-2] 2020-11-26 20:28:32 FrameworkServlet 'dispatcherServlet': initialization started
+ INFO [http-nio-8080-exec-2] 2020-11-26 20:28:32 FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
